@@ -1,0 +1,20 @@
+SharePoint - Dokumentation
+
+https://docs.microsoft.com/de-de/sharepoint/administration/overview-of-managed-navigation
+
+Neue Funktionen
+
+https://docs.microsoft.com/de-de/sharepoint/what-s-new/new-and-improved-features-in-sharepoint-server-2019
+
+Websites
+
+https://docs.microsoft.com/de-de/sharepoint/sites/sites
+
+Verwaltung
+
+https://docs.microsoft.com/de-de/sharepoint/administration/administration
+
+Technische Referenz
+
+https://docs.microsoft.com/de-de/sharepoint/technical-reference/technical-reference
+
